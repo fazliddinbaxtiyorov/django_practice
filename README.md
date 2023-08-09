@@ -1,4 +1,4 @@
-**Django Weather App**
+**Django Password Generator App**
 
 **Foydalanish**
 ```
